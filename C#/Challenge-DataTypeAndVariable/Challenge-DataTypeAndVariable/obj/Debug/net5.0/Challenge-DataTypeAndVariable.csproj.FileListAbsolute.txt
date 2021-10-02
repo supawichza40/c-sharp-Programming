@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\bin\Debug\net5.0\Challenge-DataTypeAndVariable.exe
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\bin\Debug\net5.0\Challenge-DataTypeAndVariable.deps.json
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\bin\Debug\net5.0\Challenge-DataTypeAndVariable.runtimeconfig.json
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\bin\Debug\net5.0\Challenge-DataTypeAndVariable.runtimeconfig.dev.json
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\bin\Debug\net5.0\Challenge-DataTypeAndVariable.dll
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\bin\Debug\net5.0\ref\Challenge-DataTypeAndVariable.dll
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\bin\Debug\net5.0\Challenge-DataTypeAndVariable.pdb
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\obj\Debug\net5.0\Challenge-DataTypeAndVariable.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\obj\Debug\net5.0\Challenge-DataTypeAndVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\obj\Debug\net5.0\Challenge-DataTypeAndVariable.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\obj\Debug\net5.0\Challenge-DataTypeAndVariable.AssemblyInfo.cs
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\obj\Debug\net5.0\Challenge-DataTypeAndVariable.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\obj\Debug\net5.0\Challenge-DataTypeAndVariable.dll
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\obj\Debug\net5.0\ref\Challenge-DataTypeAndVariable.dll
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\obj\Debug\net5.0\Challenge-DataTypeAndVariable.pdb
+C:\Users\supaw\Documents\C#\Challenge-DataTypeAndVariable\Challenge-DataTypeAndVariable\obj\Debug\net5.0\Challenge-DataTypeAndVariable.genruntimeconfig.cache
