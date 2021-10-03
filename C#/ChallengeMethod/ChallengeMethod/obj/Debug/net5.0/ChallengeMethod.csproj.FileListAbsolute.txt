@@ -1,0 +1,16 @@
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\bin\Debug\net5.0\ChallengeMethod.exe
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\bin\Debug\net5.0\ChallengeMethod.deps.json
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\bin\Debug\net5.0\ChallengeMethod.runtimeconfig.json
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\bin\Debug\net5.0\ChallengeMethod.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\bin\Debug\net5.0\ChallengeMethod.dll
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\bin\Debug\net5.0\ref\ChallengeMethod.dll
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\bin\Debug\net5.0\ChallengeMethod.pdb
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\obj\Debug\net5.0\ChallengeMethod.csproj.AssemblyReference.cache
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\obj\Debug\net5.0\ChallengeMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\obj\Debug\net5.0\ChallengeMethod.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\obj\Debug\net5.0\ChallengeMethod.AssemblyInfo.cs
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\obj\Debug\net5.0\ChallengeMethod.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\obj\Debug\net5.0\ChallengeMethod.dll
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\obj\Debug\net5.0\ref\ChallengeMethod.dll
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\obj\Debug\net5.0\ChallengeMethod.pdb
+C:\Users\supaw\source\repos\ChallengeMethod\ChallengeMethod\obj\Debug\net5.0\ChallengeMethod.genruntimeconfig.cache

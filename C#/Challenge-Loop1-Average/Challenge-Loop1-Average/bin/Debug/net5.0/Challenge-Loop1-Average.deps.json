@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Challenge-Loop1-Average/1.0.0": {
+        "runtime": {
+          "Challenge-Loop1-Average.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge-Loop1-Average/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

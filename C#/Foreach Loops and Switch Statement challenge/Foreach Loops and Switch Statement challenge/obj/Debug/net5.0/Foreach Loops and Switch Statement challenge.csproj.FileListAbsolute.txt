@@ -1,0 +1,16 @@
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net5.0\Foreach Loops and Switch Statement challenge.exe
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net5.0\Foreach Loops and Switch Statement challenge.deps.json
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net5.0\Foreach Loops and Switch Statement challenge.runtimeconfig.json
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net5.0\Foreach Loops and Switch Statement challenge.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net5.0\Foreach Loops and Switch Statement challenge.dll
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net5.0\ref\Foreach Loops and Switch Statement challenge.dll
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\bin\Debug\net5.0\Foreach Loops and Switch Statement challenge.pdb
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net5.0\Foreach Loops and Switch Statement challenge.csproj.AssemblyReference.cache
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net5.0\Foreach Loops and Switch Statement challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net5.0\Foreach Loops and Switch Statement challenge.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net5.0\Foreach Loops and Switch Statement challenge.AssemblyInfo.cs
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net5.0\Foreach Loops and Switch Statement challenge.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net5.0\Foreach Loops and Switch Statement challenge.dll
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net5.0\ref\Foreach Loops and Switch Statement challenge.dll
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net5.0\Foreach Loops and Switch Statement challenge.pdb
+C:\Users\supaw\source\repos\Foreach Loops and Switch Statement challenge\Foreach Loops and Switch Statement challenge\obj\Debug\net5.0\Foreach Loops and Switch Statement challenge.genruntimeconfig.cache

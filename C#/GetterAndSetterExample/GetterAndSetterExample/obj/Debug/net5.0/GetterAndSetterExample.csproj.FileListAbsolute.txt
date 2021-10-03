@@ -1,0 +1,16 @@
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\bin\Debug\net5.0\GetterAndSetterExample.exe
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\bin\Debug\net5.0\GetterAndSetterExample.deps.json
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\bin\Debug\net5.0\GetterAndSetterExample.runtimeconfig.json
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\bin\Debug\net5.0\GetterAndSetterExample.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\bin\Debug\net5.0\GetterAndSetterExample.dll
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\bin\Debug\net5.0\ref\GetterAndSetterExample.dll
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\bin\Debug\net5.0\GetterAndSetterExample.pdb
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\obj\Debug\net5.0\GetterAndSetterExample.csproj.AssemblyReference.cache
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\obj\Debug\net5.0\GetterAndSetterExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\obj\Debug\net5.0\GetterAndSetterExample.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\obj\Debug\net5.0\GetterAndSetterExample.AssemblyInfo.cs
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\obj\Debug\net5.0\GetterAndSetterExample.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\obj\Debug\net5.0\GetterAndSetterExample.dll
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\obj\Debug\net5.0\ref\GetterAndSetterExample.dll
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\obj\Debug\net5.0\GetterAndSetterExample.pdb
+C:\Users\supaw\source\repos\GetterAndSetterExample\GetterAndSetterExample\obj\Debug\net5.0\GetterAndSetterExample.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\bin\Debug\net5.0\Jagged Array Challenge.exe
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\bin\Debug\net5.0\Jagged Array Challenge.deps.json
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\bin\Debug\net5.0\Jagged Array Challenge.runtimeconfig.json
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\bin\Debug\net5.0\Jagged Array Challenge.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\bin\Debug\net5.0\Jagged Array Challenge.dll
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\bin\Debug\net5.0\ref\Jagged Array Challenge.dll
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\bin\Debug\net5.0\Jagged Array Challenge.pdb
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\obj\Debug\net5.0\Jagged Array Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\obj\Debug\net5.0\Jagged Array Challenge.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\obj\Debug\net5.0\Jagged Array Challenge.AssemblyInfo.cs
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\obj\Debug\net5.0\Jagged Array Challenge.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\obj\Debug\net5.0\Jagged Array Challenge.dll
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\obj\Debug\net5.0\ref\Jagged Array Challenge.dll
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\obj\Debug\net5.0\Jagged Array Challenge.pdb
+C:\Users\supaw\source\repos\Jagged Array Challenge\Jagged Array Challenge\obj\Debug\net5.0\Jagged Array Challenge.genruntimeconfig.cache

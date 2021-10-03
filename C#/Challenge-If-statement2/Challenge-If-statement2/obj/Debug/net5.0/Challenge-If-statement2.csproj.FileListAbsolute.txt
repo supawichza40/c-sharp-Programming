@@ -1,0 +1,16 @@
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\bin\Debug\net5.0\Challenge-If-statement2.exe
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\bin\Debug\net5.0\Challenge-If-statement2.deps.json
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\bin\Debug\net5.0\Challenge-If-statement2.runtimeconfig.json
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\bin\Debug\net5.0\Challenge-If-statement2.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\bin\Debug\net5.0\Challenge-If-statement2.dll
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\bin\Debug\net5.0\ref\Challenge-If-statement2.dll
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\bin\Debug\net5.0\Challenge-If-statement2.pdb
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\obj\Debug\net5.0\Challenge-If-statement2.csproj.AssemblyReference.cache
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\obj\Debug\net5.0\Challenge-If-statement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\obj\Debug\net5.0\Challenge-If-statement2.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\obj\Debug\net5.0\Challenge-If-statement2.AssemblyInfo.cs
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\obj\Debug\net5.0\Challenge-If-statement2.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\obj\Debug\net5.0\Challenge-If-statement2.dll
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\obj\Debug\net5.0\ref\Challenge-If-statement2.dll
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\obj\Debug\net5.0\Challenge-If-statement2.pdb
+C:\Users\supaw\source\repos\Challenge-If-statement2\Challenge-If-statement2\obj\Debug\net5.0\Challenge-If-statement2.genruntimeconfig.cache

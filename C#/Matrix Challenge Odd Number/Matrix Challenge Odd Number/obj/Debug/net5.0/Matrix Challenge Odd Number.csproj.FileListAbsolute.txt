@@ -1,0 +1,16 @@
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\bin\Debug\net5.0\Matrix Challenge Odd Number.exe
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\bin\Debug\net5.0\Matrix Challenge Odd Number.deps.json
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\bin\Debug\net5.0\Matrix Challenge Odd Number.runtimeconfig.json
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\bin\Debug\net5.0\Matrix Challenge Odd Number.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\bin\Debug\net5.0\Matrix Challenge Odd Number.dll
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\bin\Debug\net5.0\ref\Matrix Challenge Odd Number.dll
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\bin\Debug\net5.0\Matrix Challenge Odd Number.pdb
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\obj\Debug\net5.0\Matrix Challenge Odd Number.csproj.AssemblyReference.cache
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\obj\Debug\net5.0\Matrix Challenge Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\obj\Debug\net5.0\Matrix Challenge Odd Number.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\obj\Debug\net5.0\Matrix Challenge Odd Number.AssemblyInfo.cs
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\obj\Debug\net5.0\Matrix Challenge Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\obj\Debug\net5.0\Matrix Challenge Odd Number.dll
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\obj\Debug\net5.0\ref\Matrix Challenge Odd Number.dll
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\obj\Debug\net5.0\Matrix Challenge Odd Number.pdb
+C:\Users\supaw\source\repos\Matrix Challenge Odd Number\Matrix Challenge Odd Number\obj\Debug\net5.0\Matrix Challenge Odd Number.genruntimeconfig.cache

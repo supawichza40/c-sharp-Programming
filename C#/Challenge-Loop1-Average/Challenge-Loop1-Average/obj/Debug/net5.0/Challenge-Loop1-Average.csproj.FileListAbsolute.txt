@@ -1,0 +1,16 @@
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\bin\Debug\net5.0\Challenge-Loop1-Average.exe
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\bin\Debug\net5.0\Challenge-Loop1-Average.deps.json
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\bin\Debug\net5.0\Challenge-Loop1-Average.runtimeconfig.json
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\bin\Debug\net5.0\Challenge-Loop1-Average.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\bin\Debug\net5.0\Challenge-Loop1-Average.dll
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\bin\Debug\net5.0\ref\Challenge-Loop1-Average.dll
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\bin\Debug\net5.0\Challenge-Loop1-Average.pdb
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\obj\Debug\net5.0\Challenge-Loop1-Average.csproj.AssemblyReference.cache
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\obj\Debug\net5.0\Challenge-Loop1-Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\obj\Debug\net5.0\Challenge-Loop1-Average.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\obj\Debug\net5.0\Challenge-Loop1-Average.AssemblyInfo.cs
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\obj\Debug\net5.0\Challenge-Loop1-Average.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\obj\Debug\net5.0\Challenge-Loop1-Average.dll
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\obj\Debug\net5.0\ref\Challenge-Loop1-Average.dll
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\obj\Debug\net5.0\Challenge-Loop1-Average.pdb
+C:\Users\supaw\source\repos\Challenge-Loop1-Average\Challenge-Loop1-Average\obj\Debug\net5.0\Challenge-Loop1-Average.genruntimeconfig.cache
