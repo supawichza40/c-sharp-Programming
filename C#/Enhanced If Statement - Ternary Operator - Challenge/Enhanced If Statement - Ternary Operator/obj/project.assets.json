@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\supaw\\source\\repos\\Enhanced If Statement - Ternary Operator - Challenge\\Enhanced If Statement - Ternary Operator - Challenge\\Enhanced If Statement - Ternary Operator - Challenge.csproj",
-      "projectName": "Enhanced If Statement - Ternary Operator - Challenge",
-      "projectPath": "C:\\Users\\supaw\\source\\repos\\Enhanced If Statement - Ternary Operator - Challenge\\Enhanced If Statement - Ternary Operator - Challenge\\Enhanced If Statement - Ternary Operator - Challenge.csproj",
+      "projectUniqueName": "C:\\Users\\supaw\\source\\repos\\Enhanced If Statement - Ternary Operator - Challenge\\Enhanced If Statement - Ternary Operator - Challenge\\Enhanced If Statement - Ternary Operator.csproj",
+      "projectName": "Enhanced If Statement - Ternary Operator",
+      "projectPath": "C:\\Users\\supaw\\source\\repos\\Enhanced If Statement - Ternary Operator - Challenge\\Enhanced If Statement - Ternary Operator - Challenge\\Enhanced If Statement - Ternary Operator.csproj",
       "packagesPath": "C:\\Users\\supaw\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\supaw\\source\\repos\\Enhanced If Statement - Ternary Operator - Challenge\\Enhanced If Statement - Ternary Operator - Challenge\\obj\\",
       "projectStyle": "PackageReference",

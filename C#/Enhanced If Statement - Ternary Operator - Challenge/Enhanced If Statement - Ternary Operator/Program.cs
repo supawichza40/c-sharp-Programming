@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Enhanced_If_Statement___Ternary_Operator___Challenge
+namespace Enhanced_If_Statement___Ternary_Operator
 {
     class Program
     {

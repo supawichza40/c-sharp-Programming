@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualOverideDemo", "VirtualOverideDemo\VirtualOverideDemo.csproj", "{D17DF664-C1EC-416C-9073-47A8548F702C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17DF664-C1EC-416C-9073-47A8548F702C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17DF664-C1EC-416C-9073-47A8548F702C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17DF664-C1EC-416C-9073-47A8548F702C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17DF664-C1EC-416C-9073-47A8548F702C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E9D68D-9D5C-4FDA-948C-5014850471D0}
+	EndGlobalSection
+EndGlobal

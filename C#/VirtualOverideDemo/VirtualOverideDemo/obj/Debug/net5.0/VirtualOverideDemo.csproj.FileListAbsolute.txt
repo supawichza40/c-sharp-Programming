@@ -1,0 +1,15 @@
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\bin\Debug\net5.0\VirtualOverideDemo.exe
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\bin\Debug\net5.0\VirtualOverideDemo.deps.json
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\bin\Debug\net5.0\VirtualOverideDemo.runtimeconfig.json
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\bin\Debug\net5.0\VirtualOverideDemo.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\bin\Debug\net5.0\VirtualOverideDemo.dll
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\bin\Debug\net5.0\ref\VirtualOverideDemo.dll
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\bin\Debug\net5.0\VirtualOverideDemo.pdb
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\obj\Debug\net5.0\VirtualOverideDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\obj\Debug\net5.0\VirtualOverideDemo.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\obj\Debug\net5.0\VirtualOverideDemo.AssemblyInfo.cs
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\obj\Debug\net5.0\VirtualOverideDemo.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\obj\Debug\net5.0\VirtualOverideDemo.dll
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\obj\Debug\net5.0\ref\VirtualOverideDemo.dll
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\obj\Debug\net5.0\VirtualOverideDemo.pdb
+C:\Users\supaw\source\repos\VirtualOverideDemo\VirtualOverideDemo\obj\Debug\net5.0\VirtualOverideDemo.genruntimeconfig.cache
