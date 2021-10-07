@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\net5.0\PolymorphismExercise1.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\net5.0\PolymorphismExercise1.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\net5.0\PolymorphismExercise1.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\net5.0\PolymorphismExercise1.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\net5.0\PolymorphismExercise1.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\net5.0\ref\PolymorphismExercise1.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\bin\Debug\net5.0\PolymorphismExercise1.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\net5.0\PolymorphismExercise1.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\net5.0\PolymorphismExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\net5.0\PolymorphismExercise1.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\net5.0\PolymorphismExercise1.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\net5.0\PolymorphismExercise1.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\net5.0\PolymorphismExercise1.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\net5.0\ref\PolymorphismExercise1.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\net5.0\PolymorphismExercise1.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\PolymorphismExercise1\PolymorphismExercise1\obj\Debug\net5.0\PolymorphismExercise1.genruntimeconfig.cache
