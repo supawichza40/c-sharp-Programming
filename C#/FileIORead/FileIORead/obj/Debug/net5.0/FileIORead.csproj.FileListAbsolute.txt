@@ -1,0 +1,16 @@
+C:\Users\supaw\source\repos\FileIORead\FileIORead\bin\Debug\net5.0\FileIORead.exe
+C:\Users\supaw\source\repos\FileIORead\FileIORead\bin\Debug\net5.0\FileIORead.deps.json
+C:\Users\supaw\source\repos\FileIORead\FileIORead\bin\Debug\net5.0\FileIORead.runtimeconfig.json
+C:\Users\supaw\source\repos\FileIORead\FileIORead\bin\Debug\net5.0\FileIORead.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\FileIORead\FileIORead\bin\Debug\net5.0\FileIORead.dll
+C:\Users\supaw\source\repos\FileIORead\FileIORead\bin\Debug\net5.0\ref\FileIORead.dll
+C:\Users\supaw\source\repos\FileIORead\FileIORead\bin\Debug\net5.0\FileIORead.pdb
+C:\Users\supaw\source\repos\FileIORead\FileIORead\obj\Debug\net5.0\FileIORead.csproj.AssemblyReference.cache
+C:\Users\supaw\source\repos\FileIORead\FileIORead\obj\Debug\net5.0\FileIORead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\FileIORead\FileIORead\obj\Debug\net5.0\FileIORead.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\FileIORead\FileIORead\obj\Debug\net5.0\FileIORead.AssemblyInfo.cs
+C:\Users\supaw\source\repos\FileIORead\FileIORead\obj\Debug\net5.0\FileIORead.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\FileIORead\FileIORead\obj\Debug\net5.0\FileIORead.dll
+C:\Users\supaw\source\repos\FileIORead\FileIORead\obj\Debug\net5.0\ref\FileIORead.dll
+C:\Users\supaw\source\repos\FileIORead\FileIORead\obj\Debug\net5.0\FileIORead.pdb
+C:\Users\supaw\source\repos\FileIORead\FileIORead\obj\Debug\net5.0\FileIORead.genruntimeconfig.cache

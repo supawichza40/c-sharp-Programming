@@ -1,0 +1,16 @@
+C:\Users\supaw\source\repos\Delagates\Delagates\bin\Debug\net5.0\Delagates.exe
+C:\Users\supaw\source\repos\Delagates\Delagates\bin\Debug\net5.0\Delagates.deps.json
+C:\Users\supaw\source\repos\Delagates\Delagates\bin\Debug\net5.0\Delagates.runtimeconfig.json
+C:\Users\supaw\source\repos\Delagates\Delagates\bin\Debug\net5.0\Delagates.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\Delagates\Delagates\bin\Debug\net5.0\Delagates.dll
+C:\Users\supaw\source\repos\Delagates\Delagates\bin\Debug\net5.0\ref\Delagates.dll
+C:\Users\supaw\source\repos\Delagates\Delagates\bin\Debug\net5.0\Delagates.pdb
+C:\Users\supaw\source\repos\Delagates\Delagates\obj\Debug\net5.0\Delagates.csproj.AssemblyReference.cache
+C:\Users\supaw\source\repos\Delagates\Delagates\obj\Debug\net5.0\Delagates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\Delagates\Delagates\obj\Debug\net5.0\Delagates.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\Delagates\Delagates\obj\Debug\net5.0\Delagates.AssemblyInfo.cs
+C:\Users\supaw\source\repos\Delagates\Delagates\obj\Debug\net5.0\Delagates.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\Delagates\Delagates\obj\Debug\net5.0\Delagates.dll
+C:\Users\supaw\source\repos\Delagates\Delagates\obj\Debug\net5.0\ref\Delagates.dll
+C:\Users\supaw\source\repos\Delagates\Delagates\obj\Debug\net5.0\Delagates.pdb
+C:\Users\supaw\source\repos\Delagates\Delagates\obj\Debug\net5.0\Delagates.genruntimeconfig.cache

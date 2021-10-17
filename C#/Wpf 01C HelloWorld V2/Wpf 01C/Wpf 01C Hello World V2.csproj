@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Wpf_01C_Hello_World V2</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>Wpf 01C Hello World V2</AssemblyName>
+  </PropertyGroup>
+
+</Project>

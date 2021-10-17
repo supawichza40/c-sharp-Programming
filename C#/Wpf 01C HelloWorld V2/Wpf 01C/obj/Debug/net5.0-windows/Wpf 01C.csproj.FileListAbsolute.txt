@@ -1,0 +1,22 @@
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\bin\Debug\net5.0-windows\Wpf 01C.exe
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\bin\Debug\net5.0-windows\Wpf 01C.deps.json
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\bin\Debug\net5.0-windows\Wpf 01C.runtimeconfig.json
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\bin\Debug\net5.0-windows\Wpf 01C.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\bin\Debug\net5.0-windows\Wpf 01C.dll
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\bin\Debug\net5.0-windows\ref\Wpf 01C.dll
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\bin\Debug\net5.0-windows\Wpf 01C.pdb
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C.csproj.AssemblyReference.cache
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C_MarkupCompile.cache
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C_MarkupCompile.lref
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C.g.resources
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C.AssemblyInfo.cs
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C.dll
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\ref\Wpf 01C.dll
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C.pdb
+C:\Users\supaw\source\repos\Wpf 01C\Wpf 01C\obj\Debug\net5.0-windows\Wpf 01C.genruntimeconfig.cache

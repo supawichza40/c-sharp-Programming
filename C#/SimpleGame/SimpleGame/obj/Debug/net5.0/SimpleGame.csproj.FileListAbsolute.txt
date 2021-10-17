@@ -1,0 +1,15 @@
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\bin\Debug\net5.0\SimpleGame.exe
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\bin\Debug\net5.0\SimpleGame.deps.json
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\bin\Debug\net5.0\SimpleGame.runtimeconfig.json
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\bin\Debug\net5.0\SimpleGame.runtimeconfig.dev.json
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\bin\Debug\net5.0\SimpleGame.dll
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\bin\Debug\net5.0\ref\SimpleGame.dll
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\bin\Debug\net5.0\SimpleGame.pdb
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\obj\Debug\net5.0\SimpleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\obj\Debug\net5.0\SimpleGame.AssemblyInfoInputs.cache
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\obj\Debug\net5.0\SimpleGame.AssemblyInfo.cs
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\obj\Debug\net5.0\SimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\obj\Debug\net5.0\SimpleGame.dll
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\obj\Debug\net5.0\ref\SimpleGame.dll
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\obj\Debug\net5.0\SimpleGame.pdb
+C:\Users\supaw\source\repos\SimpleGame\SimpleGame\obj\Debug\net5.0\SimpleGame.genruntimeconfig.cache
