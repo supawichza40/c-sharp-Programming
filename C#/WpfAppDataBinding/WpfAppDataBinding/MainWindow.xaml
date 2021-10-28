@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfAppDataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppDataBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <!--target(TextBlock) Source(Slider)-->
+        <TextBlock Text="One Way" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Text="{Binding ElementName=MySlider, Path=Value,Mode=OneWay,UpdateSourceTrigger=PropertyChanged}" Width="50" Height="20" Margin="10" ></TextBox>
+
+        <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100" Margin="10"></Slider>
+
+        <TextBlock Text="Two Way" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Width="50" Height="20" Text="{Binding ElementName=MySlider2,Path=Value,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Slider Name="MySlider2" Minimum="0" Maximum="100" Margin="10"></Slider>
+        <TextBlock Text="One Way to source" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Width="50" Height="20" Text="{Binding ElementName=MySlider3,Path=Value,Mode=OneWayToSource}"></TextBox> 
+
+        <Slider Name="MySlider3" Minimum="0" Maximum="100" Margin="10"></Slider>
+
+    </StackPanel>
+</Window>

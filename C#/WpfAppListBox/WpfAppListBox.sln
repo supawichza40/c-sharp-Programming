@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppListBox", "WpfAppListBox\WpfAppListBox.csproj", "{263034BE-CF2A-47FE-BCBC-EBB19D3A4723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263034BE-CF2A-47FE-BCBC-EBB19D3A4723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263034BE-CF2A-47FE-BCBC-EBB19D3A4723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263034BE-CF2A-47FE-BCBC-EBB19D3A4723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263034BE-CF2A-47FE-BCBC-EBB19D3A4723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A289C915-364F-4368-BE3C-A630557B8FB7}
+	EndGlobalSection
+EndGlobal

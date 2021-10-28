@@ -1,0 +1,35 @@
+﻿<Window x:Class="Sorting_Algorithm_Visualiser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sorting_Algorithm_Visualiser"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Content="Exit" HorizontalAlignment="Left" Margin="81,24,0,0" VerticalAlignment="Top" Click="Close_The_App" Height="21" Width="37"/>
+        <Button Content="Reset" HorizontalAlignment="Left" Margin="123,24,0,0" VerticalAlignment="Top" Click="Reset"/>
+        <StackPanel Grid.Row="1">
+            <Rectangle Height="50" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="10" Fill="Purple"/>
+
+        </StackPanel>
+        <ListBox HorizontalAlignment="Left" Height="36" Margin="194,0,0,0" VerticalAlignment="Center" Width="188">
+            <ListBoxItem Content="Bubble Sort" />
+        </ListBox>
+        <Button Content="Start" HorizontalAlignment="Left" Height="22" Margin="403,22,0,0" VerticalAlignment="Top" Width="74" Click="Start_Sorting"/>
+        <Button Content="Initialise The Graph" HorizontalAlignment="Left" Margin="672,30,0,0" VerticalAlignment="Top" Click="Initilise_The_Graph"/>
+
+    </Grid>
+    <!--<StackPanel Orientation="Horizontal" VerticalAlignment="Bottom">
+            
+            <Rectangle VerticalAlignment="Bottom" Height="50" Width="10" Fill="Purple"></Rectangle>
+            <Rectangle VerticalAlignment="Bottom" Height="10" Width="10" Fill="Purple"></Rectangle>
+            <Rectangle VerticalAlignment="Bottom"] Height="10" Width="10" Fill="Purple"></Rectangle>
+        </StackPanel>-->
+
+</Window>

@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfAppGrid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppGrid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--<Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            -->
+        <!--* allow all the column to have the same width.-->
+        <!--
+           
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Grid.Column="0">Hi There</Button>
+        <Button Grid.Column="1" Margin="0,0,0,217">How are you?</Button>
+        <Button Grid.Column="1" Margin="0,217,0,0">Hello again</Button>
+        <Button Grid.Column="2" >This will take the size of the text</Button>
+        -->
+        <!--margin left up right down-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Button Content="1" Grid.Column="0" Grid.Row="0" ></Button>
+        <Button Grid.Column="1" Grid.Row="0" Content="2"></Button>
+        <Button Grid.Column="2" Grid.Row="0" Content="3"></Button>
+        <Button Grid.Column="0" Grid.Row="1" Content="4"></Button>
+        <Button Grid.Column="1" Grid.Row="1" Content="5"></Button>
+        <Button Grid.Column="2" Grid.Row="1" Content="6"></Button>
+        <Button Grid.Column="0" Grid.Row="2" Content="7"></Button>
+        <Button Grid.Column="1" Grid.Row="2" Content="8"></Button>
+        <Button Grid.Column="2" Grid.Row="2" Content="9"></Button>
+    </Grid>
+</Window>

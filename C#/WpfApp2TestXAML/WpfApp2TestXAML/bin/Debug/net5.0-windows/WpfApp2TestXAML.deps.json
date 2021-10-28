@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WpfApp2TestXAML/1.0.0": {
+        "runtime": {
+          "WpfApp2TestXAML.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp2TestXAML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

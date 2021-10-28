@@ -1,0 +1,22 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\bin\Debug\net5.0-windows\Sorting Algorithm Visualiser.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\bin\Debug\net5.0-windows\Sorting Algorithm Visualiser.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\bin\Debug\net5.0-windows\Sorting Algorithm Visualiser.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\bin\Debug\net5.0-windows\Sorting Algorithm Visualiser.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\bin\Debug\net5.0-windows\Sorting Algorithm Visualiser.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\bin\Debug\net5.0-windows\ref\Sorting Algorithm Visualiser.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\bin\Debug\net5.0-windows\Sorting Algorithm Visualiser.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser_MarkupCompile.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser_MarkupCompile.lref
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser.g.resources
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\ref\Sorting Algorithm Visualiser.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Sorting Algorithm Visualiser\Sorting Algorithm Visualiser\obj\Debug\net5.0-windows\Sorting Algorithm Visualiser.genruntimeconfig.cache

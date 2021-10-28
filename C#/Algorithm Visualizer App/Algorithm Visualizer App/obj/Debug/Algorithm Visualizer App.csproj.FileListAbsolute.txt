@@ -1,0 +1,10 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\bin\Debug\Algorithm Visualizer App.exe.config
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\bin\Debug\Algorithm Visualizer App.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\bin\Debug\Algorithm Visualizer App.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\obj\Debug\Algorithm Visualizer App.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\obj\Debug\Algorithm_Visualizer_App.Form1.resources
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\obj\Debug\Algorithm_Visualizer_App.Properties.Resources.resources
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\obj\Debug\Algorithm Visualizer App.csproj.GenerateResource.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\obj\Debug\Algorithm Visualizer App.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\obj\Debug\Algorithm Visualizer App.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Algorithm Visualizer App\Algorithm Visualizer App\obj\Debug\Algorithm Visualizer App.pdb
