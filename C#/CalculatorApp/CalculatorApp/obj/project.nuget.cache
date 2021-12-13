@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yfqi+EypHcCGiK9WH89WWeN0w/cPxc7uIhJnFyAinigtZrqk4wKfEQYOyJqXEi1lgWugn3KZDlCi5vfJTElYFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\supaw\\Documents\\c-sharp-Programming\\C#\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\supaw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\supaw\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\supaw\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}

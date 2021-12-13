@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimiseCSharpProgrammingShortcut", "OptimiseCSharpProgrammingShortcut\OptimiseCSharpProgrammingShortcut.csproj", "{B45095D4-D073-45C9-8408-667A70EF84CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{5D375A8D-6FD1-47B1-B77F-5077E91DC161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B45095D4-D073-45C9-8408-667A70EF84CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45095D4-D073-45C9-8408-667A70EF84CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45095D4-D073-45C9-8408-667A70EF84CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45095D4-D073-45C9-8408-667A70EF84CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D375A8D-6FD1-47B1-B77F-5077E91DC161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D375A8D-6FD1-47B1-B77F-5077E91DC161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D375A8D-6FD1-47B1-B77F-5077E91DC161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D375A8D-6FD1-47B1-B77F-5077E91DC161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8982A0A-C371-4270-A97A-449C8CAE4E3C}
+	EndGlobalSection
+EndGlobal

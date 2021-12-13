@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\ref\OpenClosePrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\bin\Debug\net5.0\OpenClosePrinciple.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\ref\OpenClosePrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OpenClosePrinciple\OpenClosePrinciple\obj\Debug\net5.0\OpenClosePrinciple.genruntimeconfig.cache

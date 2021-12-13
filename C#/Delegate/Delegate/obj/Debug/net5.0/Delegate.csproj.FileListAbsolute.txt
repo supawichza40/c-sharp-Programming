@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache

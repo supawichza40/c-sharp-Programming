@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\supaw\\source\\repos\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
+      "projectUniqueName": "C:\\Users\\supaw\\Documents\\c-sharp-Programming\\C#\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
       "projectName": "SimpleGame",
-      "projectPath": "C:\\Users\\supaw\\source\\repos\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
+      "projectPath": "C:\\Users\\supaw\\Documents\\c-sharp-Programming\\C#\\SimpleGame\\SimpleGame\\SimpleGame.csproj",
       "packagesPath": "C:\\Users\\supaw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\supaw\\source\\repos\\SimpleGame\\SimpleGame\\obj\\",
+      "outputPath": "C:\\Users\\supaw\\Documents\\c-sharp-Programming\\C#\\SimpleGame\\SimpleGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

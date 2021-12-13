@@ -1,0 +1,13 @@
+C:\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C# Advance\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\supaw\Documents\c-sharp-Programming\C# Advance\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C# Advance\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C# Advance\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C# Advance\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C# Advance\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C# Advance\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net5.0\ref\DependencyInversionPrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net5.0\ref\DependencyInversionPrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.genruntimeconfig.cache

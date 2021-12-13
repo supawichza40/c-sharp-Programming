@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FizzBuzzTestDrivenDevelopmentTDD/1.0.0": {
+        "dependencies": {
+          "FizzBuzz.Library": "1.0.0"
+        },
+        "runtime": {
+          "FizzBuzzTestDrivenDevelopmentTDD.dll": {}
+        }
+      },
+      "FizzBuzz.Library/1.0.0": {
+        "runtime": {
+          "FizzBuzz.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FizzBuzzTestDrivenDevelopmentTDD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FizzBuzz.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

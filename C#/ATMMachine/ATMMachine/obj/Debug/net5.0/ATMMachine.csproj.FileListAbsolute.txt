@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\bin\Debug\net5.0\ref\ATMMachine.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\obj\Debug\net5.0\ref\ATMMachine.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.genruntimeconfig.cache

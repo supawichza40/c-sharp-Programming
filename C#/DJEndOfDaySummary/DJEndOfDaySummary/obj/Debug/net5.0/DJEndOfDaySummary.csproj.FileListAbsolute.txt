@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\bin\Debug\net5.0\DJEndOfDaySummary.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\bin\Debug\net5.0\DJEndOfDaySummary.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\bin\Debug\net5.0\DJEndOfDaySummary.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\bin\Debug\net5.0\DJEndOfDaySummary.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\bin\Debug\net5.0\DJEndOfDaySummary.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\bin\Debug\net5.0\ref\DJEndOfDaySummary.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\bin\Debug\net5.0\DJEndOfDaySummary.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\obj\Debug\net5.0\DJEndOfDaySummary.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\obj\Debug\net5.0\DJEndOfDaySummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\obj\Debug\net5.0\DJEndOfDaySummary.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\obj\Debug\net5.0\DJEndOfDaySummary.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\obj\Debug\net5.0\DJEndOfDaySummary.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\obj\Debug\net5.0\DJEndOfDaySummary.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\obj\Debug\net5.0\ref\DJEndOfDaySummary.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\obj\Debug\net5.0\DJEndOfDaySummary.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\DJEndOfDaySummary\DJEndOfDaySummary\obj\Debug\net5.0\DJEndOfDaySummary.genruntimeconfig.cache

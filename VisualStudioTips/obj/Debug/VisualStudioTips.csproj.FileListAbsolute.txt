@@ -1,0 +1,8 @@
+C:\Projects\VisualStudioTips\VisualStudioTips\bin\Debug\VisualStudioTips.exe.config
+C:\Users\supaw\Documents\c-sharp-Programming\VisualStudioTips\bin\Debug\VisualStudioTips.exe.config
+C:\Users\supaw\Documents\c-sharp-Programming\VisualStudioTips\bin\Debug\VisualStudioTips.exe
+C:\Users\supaw\Documents\c-sharp-Programming\VisualStudioTips\bin\Debug\VisualStudioTips.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\VisualStudioTips\obj\Debug\VisualStudioTips.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\VisualStudioTips\obj\Debug\VisualStudioTips.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\VisualStudioTips\obj\Debug\VisualStudioTips.exe
+C:\Users\supaw\Documents\c-sharp-Programming\VisualStudioTips\obj\Debug\VisualStudioTips.pdb

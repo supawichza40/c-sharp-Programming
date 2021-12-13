@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\bin\Debug\net5.0\BudgetApplication.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\bin\Debug\net5.0\BudgetApplication.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\bin\Debug\net5.0\BudgetApplication.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\bin\Debug\net5.0\BudgetApplication.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\bin\Debug\net5.0\BudgetApplication.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\bin\Debug\net5.0\ref\BudgetApplication.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\bin\Debug\net5.0\BudgetApplication.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\obj\Debug\net5.0\BudgetApplication.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\obj\Debug\net5.0\BudgetApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\obj\Debug\net5.0\BudgetApplication.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\obj\Debug\net5.0\BudgetApplication.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\obj\Debug\net5.0\BudgetApplication.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\obj\Debug\net5.0\BudgetApplication.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\obj\Debug\net5.0\ref\BudgetApplication.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\obj\Debug\net5.0\BudgetApplication.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\BudgetApplication\BudgetApplication\obj\Debug\net5.0\BudgetApplication.genruntimeconfig.cache

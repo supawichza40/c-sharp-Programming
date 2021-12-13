@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\obj\Debug\net5.0\CovarianceContravariance.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\obj\Debug\net5.0\CovarianceContravariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\obj\Debug\net5.0\CovarianceContravariance.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\obj\Debug\net5.0\CovarianceContravariance.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\obj\Debug\net5.0\CovarianceContravariance.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\bin\Debug\net5.0\CovarianceContravariance.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\bin\Debug\net5.0\CovarianceContravariance.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\bin\Debug\net5.0\CovarianceContravariance.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\bin\Debug\net5.0\CovarianceContravariance.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\bin\Debug\net5.0\CovarianceContravariance.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\bin\Debug\net5.0\ref\CovarianceContravariance.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\bin\Debug\net5.0\CovarianceContravariance.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\obj\Debug\net5.0\CovarianceContravariance.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\obj\Debug\net5.0\ref\CovarianceContravariance.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\obj\Debug\net5.0\CovarianceContravariance.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CovarianceContravariance\CovarianceContravariance\obj\Debug\net5.0\CovarianceContravariance.genruntimeconfig.cache

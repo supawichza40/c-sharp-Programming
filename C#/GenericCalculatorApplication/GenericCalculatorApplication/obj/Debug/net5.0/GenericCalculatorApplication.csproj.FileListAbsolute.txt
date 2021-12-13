@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\bin\Debug\net5.0\GenericCalculatorApplication.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\bin\Debug\net5.0\GenericCalculatorApplication.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\bin\Debug\net5.0\GenericCalculatorApplication.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\bin\Debug\net5.0\GenericCalculatorApplication.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\bin\Debug\net5.0\GenericCalculatorApplication.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\bin\Debug\net5.0\ref\GenericCalculatorApplication.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\bin\Debug\net5.0\GenericCalculatorApplication.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\obj\Debug\net5.0\GenericCalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\obj\Debug\net5.0\GenericCalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\obj\Debug\net5.0\GenericCalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\obj\Debug\net5.0\GenericCalculatorApplication.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\obj\Debug\net5.0\GenericCalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\obj\Debug\net5.0\GenericCalculatorApplication.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\obj\Debug\net5.0\ref\GenericCalculatorApplication.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\obj\Debug\net5.0\GenericCalculatorApplication.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\GenericCalculatorApplication\GenericCalculatorApplication\obj\Debug\net5.0\GenericCalculatorApplication.genruntimeconfig.cache

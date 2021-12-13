@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\CalculatorOperationUnitTest.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\CalculatorOperationUnitTest.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\obj\Debug\CalculatorOperationUnitTest.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\obj\Debug\CalculatorOperationUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\obj\Debug\CalculatorOperationUnitTest.csproj.CopyComplete
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\obj\Debug\CalculatorOperationUnitTest.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\CalculatorApplication\CalculatorOperationUnitTest\obj\Debug\CalculatorOperationUnitTest.pdb

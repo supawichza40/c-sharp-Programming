@@ -1,0 +1,6 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\FizzBuzzTestDrivenDevelopmentTDD\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\FizzBuzzTestDrivenDevelopmentTDD\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\FizzBuzzTestDrivenDevelopmentTDD\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\FizzBuzzTestDrivenDevelopmentTDD\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\FizzBuzzTestDrivenDevelopmentTDD\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\FizzBuzzTestDrivenDevelopmentTDD\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.pdb

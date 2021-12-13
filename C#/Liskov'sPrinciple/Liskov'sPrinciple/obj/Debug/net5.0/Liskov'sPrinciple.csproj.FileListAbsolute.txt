@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\bin\Debug\net5.0\Liskov'sPrinciple.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\bin\Debug\net5.0\Liskov'sPrinciple.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\bin\Debug\net5.0\Liskov'sPrinciple.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\bin\Debug\net5.0\Liskov'sPrinciple.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\bin\Debug\net5.0\Liskov'sPrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\bin\Debug\net5.0\ref\Liskov'sPrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\bin\Debug\net5.0\Liskov'sPrinciple.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\obj\Debug\net5.0\Liskov'sPrinciple.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\obj\Debug\net5.0\Liskov'sPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\obj\Debug\net5.0\Liskov'sPrinciple.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\obj\Debug\net5.0\Liskov'sPrinciple.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\obj\Debug\net5.0\Liskov'sPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\obj\Debug\net5.0\Liskov'sPrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\obj\Debug\net5.0\ref\Liskov'sPrinciple.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\obj\Debug\net5.0\Liskov'sPrinciple.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Liskov'sPrinciple\Liskov'sPrinciple\obj\Debug\net5.0\Liskov'sPrinciple.genruntimeconfig.cache

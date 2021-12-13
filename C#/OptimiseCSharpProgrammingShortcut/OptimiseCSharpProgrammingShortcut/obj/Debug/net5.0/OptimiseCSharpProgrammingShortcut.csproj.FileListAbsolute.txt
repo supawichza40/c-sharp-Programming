@@ -1,0 +1,5 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OptimiseCSharpProgrammingShortcut\OptimiseCSharpProgrammingShortcut\obj\Debug\net5.0\OptimiseCSharpProgrammingShortcut.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OptimiseCSharpProgrammingShortcut\OptimiseCSharpProgrammingShortcut\obj\Debug\net5.0\OptimiseCSharpProgrammingShortcut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OptimiseCSharpProgrammingShortcut\OptimiseCSharpProgrammingShortcut\obj\Debug\net5.0\OptimiseCSharpProgrammingShortcut.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OptimiseCSharpProgrammingShortcut\OptimiseCSharpProgrammingShortcut\obj\Debug\net5.0\OptimiseCSharpProgrammingShortcut.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\OptimiseCSharpProgrammingShortcut\OptimiseCSharpProgrammingShortcut\obj\Debug\net5.0\OptimiseCSharpProgrammingShortcut.csproj.CoreCompileInputs.cache

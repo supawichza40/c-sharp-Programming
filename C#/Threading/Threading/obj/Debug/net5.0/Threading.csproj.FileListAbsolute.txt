@@ -1,0 +1,16 @@
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\bin\Debug\net5.0\Threading.exe
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\bin\Debug\net5.0\Threading.deps.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\bin\Debug\net5.0\Threading.runtimeconfig.dev.json
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\bin\Debug\net5.0\Threading.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\bin\Debug\net5.0\ref\Threading.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\bin\Debug\net5.0\Threading.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\obj\Debug\net5.0\Threading.csproj.AssemblyReference.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\obj\Debug\net5.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfoInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\obj\Debug\net5.0\Threading.AssemblyInfo.cs
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\obj\Debug\net5.0\Threading.csproj.CoreCompileInputs.cache
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\obj\Debug\net5.0\Threading.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\obj\Debug\net5.0\ref\Threading.dll
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\obj\Debug\net5.0\Threading.pdb
+C:\Users\supaw\Documents\c-sharp-Programming\C#\Threading\Threading\obj\Debug\net5.0\Threading.genruntimeconfig.cache
